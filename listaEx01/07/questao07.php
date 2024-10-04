@@ -9,6 +9,6 @@ $media = ($nota1 + $nota2 + $nota3) / 3;
 if ($media >= 7) {
     echo "Aprovado! Média: " . $media; 
 } else {
-    echo "Reprovado! Média: " . $media; //ponto para cocatenar
+    echo "Reprovado! Média: " . $media; //(.)ponto para cocatenar
 }
 ?>
