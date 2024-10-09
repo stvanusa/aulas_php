@@ -1,5 +1,5 @@
-<!-- Nomes em um array: Crie um array com 5 nomes e use foreach para imprimir cada nome.-->
 <?php
+//Nomes em um array: Crie um array com 5 nomes e use foreach para imprimir cada nome.
 $nomes = ["Vanusa", "Hícaro", "Tom", "Ewerton", "Lucas"];
 
 foreach ($nomes as $nome) {

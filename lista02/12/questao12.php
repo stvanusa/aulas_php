@@ -1,1 +1,3 @@
-<!-- Números ímpares: Utilize um loop while para imprimir os números ímpares de 1 a 25.-->
+<?php
+//Números ímpares: Utilize um loop while para imprimir os números ímpares de 1 a 25.
+?>

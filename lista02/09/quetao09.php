@@ -1,5 +1,5 @@
-<!-- 9- Soma de elementos: Crie um array com 10 números e use foreach para calcular a soma de todos os elementos.-->
 <?php
+//9- Soma de elementos: Crie um array com 10 números e use foreach para calcular a soma de todos os elementos.
 $numeros = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
 $soma = 0;
 

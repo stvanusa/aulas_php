@@ -1,8 +1,9 @@
-<!-- 11 - Soma até um limite: Crie um loop while que some números inteiros até que a soma ultrapasse 100
-  e imprima quantos números foram somados.-->
-  <?php
-$soma = 0;       // Inicializa a variável soma em 0
-$contador = 0;   // Inicializa o contador em 0
+<?php
+// <!-- 11 - Soma até um limite: Crie um loop while que some números inteiros até que a soma ultrapasse 100
+//e imprima quantos números foram somados.
+
+$soma = 0;       
+$contador = 0;   
 
 while ($soma <= 100) {
     $numero = (int)readline("Digite um número inteiro: "); // Solicita um número ao usuário

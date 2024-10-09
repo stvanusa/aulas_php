@@ -1,5 +1,6 @@
-<!--  Lista de frutas: Crie um array com diferentes frutas e use foreach para criar uma lista numerada.-->
+
 <?php
+//Lista de frutas: Crie um array com diferentes frutas e use foreach para criar uma lista numerada.
 $frutas = ["Maçã", "Banana", "Laranja", "Manga", "Uva"];
 
 echo "Lista de Frutas:\n";
